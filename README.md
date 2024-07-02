@@ -1,0 +1,4 @@
+- Olá,sou @rafazomb, ou melhor, Rafael Henrique;
+- Pronomes: ele/dele;
+- Estou utilizando aqui como portfolio de meus códigos;
+- Atualmente ja programei com c++, html e principalmente python, porém não estou programando muito ultimamente.
